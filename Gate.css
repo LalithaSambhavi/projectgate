@@ -1,0 +1,29 @@
+*{
+	background-color:white;
+	text-align:center;
+}
+button{
+	height:50px;
+	width:120px;
+	background-color:white;
+	border-radius:10%;
+	position:relative;
+	font-size:medium;
+	font-weight:bold;
+	background-color:white;
+	color:brown;
+	margin:50px;  
+}
+img{
+	margin:auto;
+	height:300px;
+	width:350px;
+}
+button:hover{
+	color:green;
+	background-color:aqua;
+	cursor:pointer;
+}
+#close{
+	margin-left:20%;
+}
